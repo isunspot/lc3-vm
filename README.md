@@ -12,7 +12,7 @@ The machine should be able to run simple LC3 programs.
 
 Compile the sample program:
 
-`gcc -Wall -std=c11 simple_program.c`
+`gcc -Wall -std=c11 simple_program.c -o simple_program.obj`
 
 Compile the `vm`:
 
